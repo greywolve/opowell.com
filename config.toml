@@ -1,0 +1,4 @@
+theme = "oliver"
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "Oliver Powell"
+languageCode = "en-us"

@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+    color: #EE4938;
+}
+
+body {
+  background: #fafaf0;
+}
+
+.home-menu {
+    text-align: left;
+}
+
+.home-menu ul {
+    float: right;
+}
+
+.centered {
+  margin: 0 auto;
+  clear: both;
+  max-width: 750px;
+  width: 60%;
+}
+
+.right {
+    float: right;
+}
+
+.post-list ul {
+    list-style: none;
+}
+
+.post-list .meta {
+    color: #666666;
+    font-size: 0.85em;
+    margin-right: 2em;
+}
