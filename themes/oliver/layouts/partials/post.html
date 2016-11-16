@@ -5,6 +5,19 @@
     <h1>{{ .Title }}</h1>
 </div>
 
+
+{{ if .Params.tags }}
+<div class="tags">
+    |
+    {{ range $index, $tag := .Params.tags }}
+    {{ if gt $index 0 }}, {{ end }}
+    <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" rel="tag">
+        {{ . }}
+    </a>
+    {{ end }}
+</div>
+{{ end }}
+
 <div class="post-content">
     {{ .Content }}
 </div>
@@ -23,3 +36,4 @@
     </a>
     {{end}}
 </div>
+

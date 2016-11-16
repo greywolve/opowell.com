@@ -2,3 +2,6 @@ theme = "oliver"
 baseurl = "http://www.opowell.com"
 title = "Oliver Powell"
 languageCode = "en-us"
+
+[taxonomies]
+tag = "tags"

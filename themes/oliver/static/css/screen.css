@@ -49,3 +49,11 @@ body {
     height: 1em;
 }
 
+.tag-title {
+    color: grey;
+    font-size: 0.5em;
+}
+
+.tags {
+    font-size: 0.9em;
+}

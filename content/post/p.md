@@ -1,7 +1,7 @@
 +++
 date = "2016-11-16T09:20:27+02:00"
 title = "Procrastination"
-
+tags = ["golang", "clojure", "data-orientated design"]
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper

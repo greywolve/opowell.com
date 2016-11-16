@@ -1,0 +1,15 @@
+{{define "main" }}
+
+  <div class="post-list">
+    <h2>Posts <span class="tag-title">({{ .Title }})</span></h2>
+    <ul>
+    {{ range .Data.Pages.ByPublishDate }}
+             <li class="post-list-item">
+                 <span class="meta">{{ .Date.Format "Jan 2, 2006"  }}</span>
+                 <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+             </li>
+    {{ end }}
+    </ul>
+  </div>
+
+{{ end }}
