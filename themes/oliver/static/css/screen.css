@@ -7,23 +7,27 @@ body {
   background: #fafaf0;
 }
 
-.home-menu {
-    text-align: left;
-}
-
-.home-menu ul {
-    float: right;
+.right-aligned {
+    text-align: right;
 }
 
 .centered {
+  padding-top: 2em;
   margin: 0 auto;
   clear: both;
   max-width: 750px;
   width: 60%;
 }
 
-.right {
-    float: right;
+.footer {
+    padding-top: 2em;
+    padding-left: 1em;
+    font-size: 0.75em;
+    text-align: left;
+}
+
+.footer a {
+    color: grey;
 }
 
 .post-list ul {
@@ -35,3 +39,10 @@ body {
     font-size: 0.85em;
     margin-right: 2em;
 }
+
+.icon {
+    width: 1em;
+    height: 1em;
+             
+}
+

@@ -1,0 +1,25 @@
+<div class="post-header">
+    <div id="post-meta" class="row">
+        <div class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+    </div>
+    <h1>{{ .Title }}</h1>
+</div>
+
+<div class="post-content">
+    {{ .Content }}
+</div>
+
+<div class="pure-g">
+    {{if .PrevInSection}}
+    <a href="{{.PrevInSection.Permalink}}" class="pure-u-1-2">
+        &laquo; {{.PrevInSection.LinkTitle}}
+    </a>
+    {{end}}
+
+    {{if .NextInSection}}
+    <a class="right-aligned {{if .PrevInSection}} pure-u-1-2 {{else}} pure-u-1 {{end}}"
+       href="{{.NextInSection.Permalink}}">
+        {{.NextInSection.LinkTitle}} &raquo;
+    </a>
+    {{end}}
+</div>

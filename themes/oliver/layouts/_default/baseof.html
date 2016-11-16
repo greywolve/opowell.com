@@ -1,47 +1,72 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ block "title" . }}
-      {{ .Site.Title }}
-    {{ end }}</title>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ block "title" . }}
+            {{ .Site.Title }}
+            {{ end }}</title>
 
-    <link rel="stylesheet" href="/css/pure-min.css">
-    <link rel="stylesheet" href="/css/screen.css">
-    <link rel="stylesheet" href="/css/typeplate.css">
-    <link rel="stylesheet" href="/css/code-highlighting.css">
+        <link rel="stylesheet" href="/css/pure-min.css">
+        <link rel="stylesheet" href="/css/grids-responsive-min.css">
+        <link rel="stylesheet" href="/css/screen.css">
+        <link rel="stylesheet" href="/css/typeplate.css">
+        <link rel="stylesheet" href="/css/code-highlighting.css">
 
-  </head>
-  <body>
+    </head>
+    <body>
 
-    <header id="header">
-      <div class="home-menu pure-menu pure-menu-horizontal">
-          <a href="#" class="pure-menu-heading pure-menu-link">Oliver Powell</a>
-          <ul class="pure-menu-list">
-            <li class="pure-menu-item">
-              <a href="#" class="pure-menu-link">
-                <i class="fa fa-github" aria-hidden="true"></i>
-              </a>
-            </li>
-            <li class="pure-menu-item">
-                <a href="{{.Site.BaseURL}}post" class="pure-menu-link">
-                    Posts
-                </a>
-            </li>
-            <li class="pure-menu-item"><a href="#" class="pure-menu-link">About</a></li>
-          </ul>
-      </div>
-    </header>
+        <header id="header">
+            <div class="pure-menu pure-menu-horizontal pure-g">
+                <div class="pure-u-1-2">
+                    <ul class="pure-menu-list">
+                        <li class="pure-menu-item">
+                            <a href="#" class="pure-menu-heading pure-menu-link">Oliver Powell</a>
+                        </li>
+                        <li class="pure-menu-item">
+                            <a href="https://github.com/greywolve">
+                                <img class="icon" src="/images/github.svg" />
+                            </a>
+                            <a href="https://za.linkedin.com/in/oliver-powell-b443153a">
+                                <img class="icon" src="/images/linkedin.svg" />
+                            </a>
+                            <a href="https://twitter.com/greywolve">
+                                <img class="icon" src="/images/twitter.svg" />
+                            </a>
+                            <a href="{{.Site.RSSLink}}" type="application/rss+xml" target="_blank" >
+                                <img class="icon" src="/images/rss.svg" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
 
-    <article class="centered">
-        {{ block "main" . }}
-        {{ end }}
-    </article>
+                <div class="pure-u-1-2 right-aligned">
+                    <ul class="pure-menu-list">
+                        <li class="pure-menu-item">
+                            <a href="{{.Site.BaseURL}}post" class="pure-menu-link">
+                                Posts
+                            </a>
+                        </li>
+                        <li class="pure-menu-item">
+                            <a href="{{.Site.BaseURL}}about" class="pure-menu-link">
+                            About
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
 
+        <article class="centered">
+            {{ block "main" . }}
+            {{ end }}
+        </article>
 
-    <script src="/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
+        <footer class="footer">
+            <a href="{{.Site.BaseURL}}uncopyright"> uncopyright notice </a>
+        </footer>
 
-  </body>
-  
+        <script src="/js/highlight.pack.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+    </body>
 </html>
