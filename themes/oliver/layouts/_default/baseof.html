@@ -61,9 +61,12 @@
             {{ end }}
         </article>
 
-        <footer class="footer">
-            <a href="{{.Site.BaseURL}}uncopyright"> uncopyright notice </a>
-        </footer>
+        {{if eq .Title "uncopyright"}}
+        {{else}}
+            <footer class="footer">
+                <a href="{{.Site.BaseURL}}uncopyright"> uncopyright notice </a>
+            </footer>
+        {{end}}
 
         <script src="/js/highlight.pack.js"></script>
         <script>hljs.initHighlightingOnLoad();</script>

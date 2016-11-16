@@ -40,9 +40,12 @@ body {
     margin-right: 2em;
 }
 
+.post-content {
+    padding-top: 0.852em;
+}
+
 .icon {
     width: 1em;
     height: 1em;
-             
 }
 
