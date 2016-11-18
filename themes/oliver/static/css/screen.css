@@ -30,7 +30,12 @@ body {
     color: grey;
 }
 
+.post-list {
+    font-size: 0.82em;
+}
+
 .post-list ul {
+    white-space: nowrap;
     list-style: none;
 }
 
@@ -38,6 +43,12 @@ body {
     color: #666666;
     font-size: 0.85em;
     margin-right: 2em;
+}
+
+.post-date {
+    text-transform: uppercase;
+    color: #333;
+    font-size: 0.65em;
 }
 
 .post-content {
@@ -55,5 +66,6 @@ body {
 }
 
 .tags {
+    padding-top: 0.5em;
     font-size: 0.9em;
 }
