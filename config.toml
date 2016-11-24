@@ -2,6 +2,7 @@ theme = "oliver"
 baseurl = "http://www.opowell.com/"
 title = "Oliver Powell"
 languageCode = "en-us"
+googleAnalytics = "UA-87997434-1"
 
 [taxonomies]
 tag = "tags"
