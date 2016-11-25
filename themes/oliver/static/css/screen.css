@@ -19,6 +19,24 @@ body {
   width: 60%;
 }
 
+@media screen and (min-width: 35.5em) {
+  .centered {
+  width: 100%;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .centered {
+  width: 100%;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .centered {
+  width: 80%;
+  }
+}
+
 .footer {
     padding-top: 2em;
     padding-left: 1em;
