@@ -2,24 +2,6 @@ html {
   font: normal 175%/1.65 serif;
 }
 
-@media screen and (min-width: 35.5em) {
-  html {
-  font: normal 230%/1.65 serif;
-  }
-}
-
-@media screen and (min-width: 48em) {
-  html {
-  font: normal 230%/1.65 serif;
-  }
-}
-
-@media screen and (min-width: 64em) {
-  html {
-  font: normal 175%/1.65 serif;
-  }
-}
-
 a {
     text-decoration: none;
     color: #EE4938;
@@ -44,18 +26,21 @@ body {
 @media screen and (min-width: 35.5em) {
   .centered {
   width: 100%;
+  font-size: 2em;
   }
 }
 
 @media screen and (min-width: 48em) {
   .centered {
-  width: 100%;
+  width: 80%;
+  font-size: 1.5em;
   }
 }
 
 @media screen and (min-width: 64em) {
   .centered {
-  width: 80%;
+  width: 60%;
+  font-size: 1.2em;
   }
 }
 
