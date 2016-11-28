@@ -1,6 +1,6 @@
 {{define "main" }}
 
-  {{- range first 1 (where .Data.Pages "Section" "post")}}
+  {{- range last 1 (where .Data.Pages.ByDate "Section" "post")}}
       {{partial "post.html" .}}
   {{- end }}
 
