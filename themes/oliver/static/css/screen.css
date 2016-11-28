@@ -1,7 +1,3 @@
-html {
-  font: normal 150%/1.65 serif;
-}
-
 a {
     text-decoration: none;
     color: #EE4938;
@@ -12,45 +8,26 @@ body {
 }
 
 
-@media screen and (min-width: 35.5em) {
-    .right-menu {
-        text-align: left;
-    }
+.social {
+    padding-top: 0.5em;
+    text-align: center;
 }
 
-@media screen and (min-width: 48em) {
-    .right-menu {
-        text-align: right;
-    }
+.menu {
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
 }
 
 .centered {
+  font-size: 1.2em;
   padding-top: 2em;
   margin: 0 auto;
   clear: both;
   max-width: 750px;
-  width: 60%;
-}
-
-@media screen and (min-width: 35.5em) {
-  .centered {
-  width: 100%;
-  font-size: 2em;
-  }
-}
-
-@media screen and (min-width: 48em) {
-  .centered {
-  width: 80%;
-  font-size: 1.5em;
-  }
-}
-
-@media screen and (min-width: 64em) {
-  .centered {
-  width: 60%;
-  font-size: 1em;
-  }
+  width: 85%;
 }
 
 .footer {
@@ -102,4 +79,29 @@ body {
 .tags {
     padding-top: 0.5em;
     font-size: 0.9em;
+}
+
+@media screen and (min-width: 35.5em) {
+  .centered {
+      width: 80%;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .centered {
+      width: 70%;
+  }
+  .menu {
+      text-align: right;
+  }
+
+  .logo {
+      text-align: left;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .centered {
+  width: 60%;
+  }
 }
