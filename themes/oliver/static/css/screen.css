@@ -1,5 +1,5 @@
 html {
-  font: normal 175%/1.65 serif;
+  font: normal 150%/1.65 serif;
 }
 
 a {
@@ -11,8 +11,17 @@ body {
   background: #fafaf0;
 }
 
-.right-aligned {
-    text-align: right;
+
+@media screen and (min-width: 35.5em) {
+    .right-menu {
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 48em) {
+    .right-menu {
+        text-align: right;
+    }
 }
 
 .centered {
@@ -40,7 +49,7 @@ body {
 @media screen and (min-width: 64em) {
   .centered {
   width: 60%;
-  font-size: 1.2em;
+  font-size: 1em;
   }
 }
 
