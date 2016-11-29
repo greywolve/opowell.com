@@ -46,14 +46,17 @@ body {
 }
 
 .post-list ul {
-    white-space: nowrap;
+    white-space: normal;
     list-style: none;
+    padding-left: 1em;
 }
 
 .post-list .meta {
     color: #666666;
     font-size: 0.85em;
-    margin-right: 2em;
+    margin-top: 0.4em;
+    margin-right: 0;
+    display: block;
 }
 
 .post-date {
@@ -85,12 +88,16 @@ body {
   .centered {
       width: 80%;
   }
-}
-
-@media screen and (min-width: 48em) {
-  .centered {
-      width: 70%;
+  .post-list ul {
+      white-space: nowrap;
+      list-style: none;
   }
+
+  .post-list .meta {
+      margin-right: 1em;
+      display: inline;
+  }
+
   .menu {
       text-align: right;
   }
@@ -98,6 +105,13 @@ body {
   .logo {
       text-align: left;
   }
+}
+
+@media screen and (min-width: 48em) {
+  .centered {
+      width: 70%;
+  }
+
 }
 
 @media screen and (min-width: 64em) {
