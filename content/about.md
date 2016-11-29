@@ -43,6 +43,21 @@ generalist at heart, who happens to write software for a living. I feel lucky to
 have programming in my toolbox, and I think it needs to become a more widespread
 skill.
 
+In my opinion, virtually all formal education institutions, including the elite
+universities, have forgotten the origin of the word educate, namely to 'draw
+out'. In general, these institutions are more focused on filling empty vessels,
+rather than drawing out of full ones. Worthless grading systems, become more
+important
+than
+[fostering curiosity](https://www.ted.com/talks/shimon_schocken_the_self_organizing_computer_course),
+and
+[creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity).
+Such institutions are better at
+producing
+[excellent sheep](http://www.goodreads.com/book/show/18775383-excellent-sheep)
+rather than true free thinkers. There are of
+course [exceptions](https://www.youtube.com/watch?v=DZQe73IXZtU).
+
 I dream of
 a [post-scarcity economy](https://en.wikipedia.org/wiki/Post-scarcity_economy),
 where human potential can be freed up, and where people can spend their days
