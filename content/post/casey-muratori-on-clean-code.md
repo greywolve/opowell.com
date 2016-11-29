@@ -32,7 +32,7 @@ problems, and that our job is to solve those problems, not write 'clean' code.
 I'd summarize his salient points as follows:
 
 - Thinking about how to make code not messy, whatever that means to you, is time
-  you could have been spending writing code to figure out how to structure your
+  you could have used to write code to figure out how to structure your
   program. You spent time that should have been spent thinking about the
   problem, on thinking about the code. In other words, you have wasted time.
   
