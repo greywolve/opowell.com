@@ -54,6 +54,10 @@ I'd summarize his salient points as follows:
   then you can think about how to clean up the code. Again, the focus of
   cleaning the code is to increase code debug-ability, readability, reuse etc.
 
+It's easy to gravitate towards the path of least resistance, and focus on things
+that are superficial, under the belief that they are more useful than they
+actually are. It's far harder to focus on what actually matters.
+
 [^1]: I highly recommend watching the whole
     lecture
     [What Programming is Never About](https://www.youtube.com/watch?v=Lzc3HcIgXis),
