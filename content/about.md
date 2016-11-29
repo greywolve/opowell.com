@@ -37,9 +37,10 @@ I have a strong interest in health and wellness, which I believe is holistic.
 I'm a big fan of Ray Peat's [work](http://raypeat.com/) in this area.
 
 I'm a fan of both nature and technology, and believe that it's possible to
-combine them in ways where everyone wins. I'm a systems thinker, and generalist
-at heart, who happens to write software for a living. I feel lucky to have
-programming in my toolbox, and I think it needs to become a more widespread
+combine them in ways where everyone wins. I'm
+a [systems thinker](https://en.wikipedia.org/wiki/Systems_thinking), and
+generalist at heart, who happens to write software for a living. I feel lucky to
+have programming in my toolbox, and I think it needs to become a more widespread
 skill.
 
 I dream of
