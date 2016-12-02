@@ -8,6 +8,8 @@ date = "2016-11-16T15:18:43+02:00"
 >
 > -- <cite>Zen Proverb</cite>
 
+![Alt text](/images/hs_art.jpg)
+
 I dislike writing about myself, because I feel it's impossible to really
 summarize any human being into a few paragraphs, but I'll try give you a tiny
 glimpse of who I am.

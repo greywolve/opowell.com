@@ -3,6 +3,11 @@ a {
     color: #EE4938;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 body {
   background: #fafaf0;
 }
