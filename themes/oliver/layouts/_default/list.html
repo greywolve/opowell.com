@@ -5,7 +5,7 @@
     <ul>
     {{ range .Data.Pages.ByPublishDate }}
              <li class="post-list-item">
-                 <span class="meta">{{ .Date.Format "Jan 2, 2006"  }}</span>
+                 <span class="meta">{{ .Date.Format "Jan 02, 2006"  }}</span>
                  <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
              </li>       
     {{ end }}
