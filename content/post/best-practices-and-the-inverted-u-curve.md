@@ -79,7 +79,7 @@ depending on your problem. For some, you might find that you get most of the
 benefits from a little bit of use, for others, you might need to use it almost
 always.
 
-![Best practices various U shaped curves](/images/post/best-practices-and-the-inverted-u-shaped-curve/03.png)
+![Best practices various U shaped curves](/images/post/best-practices-and-the-inverted-u-shaped-curve/04.png)
 
 
 Programming will always be a holistic pursuit, with many intertwining factors.
