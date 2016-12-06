@@ -6,8 +6,9 @@ title = "'Best practices' and the inverted U curve"
 
 > You should not have any special fondness for a particular weapon, or anything
 > else, for that matter. Too much is the same as not enough. Without imitating
-> anyone else, you should have as much weaponry as suits you. -- <cite> Miyamoto
-> Musashi, The Book of Five Rings </cite>
+> anyone else, you should have as much weaponry as suits you. 
+>
+> -- <cite> Miyamoto Musashi, The Book of Five Rings </cite>
 
 ![Linear crime relationships](/images/post/best-practices-and-the-inverted-u-shaped-curve/01.png)
 
