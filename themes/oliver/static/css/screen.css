@@ -8,6 +8,11 @@ img {
     height: auto;
 }
 
+.centered img {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
 body {
   background: #fafaf0;
 }
