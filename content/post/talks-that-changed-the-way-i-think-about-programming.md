@@ -30,7 +30,7 @@ One of the most important metrics to optimize for is hours of your life spent
 programming something. You have a finite amount of hours in your life after all,
 which you'd surely like to spend on other things too.
 
-#### [Eksil Steenberg: How I program in C](https://www.youtube.com/watch?v=443UNeGrFoM&t=21s)
+#### [Eskil Steenberg: How I program in C](https://www.youtube.com/watch?v=443UNeGrFoM&t=21s)
 
 > In the beginning all you want is results, in the end, all you want is control
 
