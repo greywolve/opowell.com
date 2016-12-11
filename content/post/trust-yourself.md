@@ -19,8 +19,8 @@ age to obey orders, and to trust information from places of authority - almost
 without question. This tends to stay with us throughout our lives, in one form
 or another. It takes guts and courage to swim upstream, to actively go against
 industry 'best practices' and instead choose methods you think are better.
-People might laugh at you, or call you crazy. But don't forget - without people
-like you there wouldn't be progress.
+People might laugh at you, or call you crazy. But don't forget that there'd be
+no progress without people like you.
 
 > Authoritarians talk about protocols, but the only valid 'protocol' would be
 > something like 'perceive, think, act'
