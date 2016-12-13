@@ -1,8 +1,16 @@
 +++
 title = "Books that have influenced my thinking"
-date = "2016-12-13T14:47:08+02:00"
+date = "2016-12-13T17:47:08+02:00"
 
 +++
+
+Here's a list of books that I've found particularly thought provoking. Each of
+them has a wealth of insight, wisdom, and knowledge to share. Many of them are
+worth reading a few times.
+
+I was going to sum up what each of them meant to me in a paragraph or two, but I
+quickly realized that it would no longer be a paragraph or two then. Instead I
+have included a quote from each book that I really liked.
 
 ### Antifragile
 
@@ -15,11 +23,6 @@ date = "2016-12-13T14:47:08+02:00"
 > the Procrustean bed of modernity.
 > 
 > -- <cite> Nassim Nicholas Taleb </cite>
-
-Nassim Taleb proposes that just like the opposite of -1 is not zero, that the
-opposite of fragile is not robust. The opposite of fragile are systems which
-gain from disorder. I particularly liked his chapter on why Switzerland has been
-so successful.
 
 ### Don't Sleep, There Are Snakes
 
@@ -42,16 +45,12 @@ so successful.
 >
 > -- <cite> Daniel L. Everett </cite>
 
-He went there to convert them, but they ended up converting him instead. A look
-into the hunter gatherer lifestyle, and the lessons we can learn from them.
-
 ### Talent is Overrated
 ![Talent is overrated cover](/images/post/books-that-have-influenced-my-thinking/talent-is-overrated.jpg)
 
 > Landing on your butt twenty thousand times is where great performance comes from.
 >
 > -- <cite> Geoff Colvin </cite>
-
 
 ### Excellent Sheep
 
@@ -99,8 +98,6 @@ into the hunter gatherer lifestyle, and the lessons we can learn from them.
 >
 > -- <cite> Malcolm Gladwell </cite>
 
-How trusting your gut and institution can both save your life, and also lead you astray.
-
 ### The Wayfinders
 
 ![The Wayfinders cover](/images/post/books-that-have-influenced-my-thinking/the-wayfinders.jpg)
@@ -114,10 +111,6 @@ How trusting your gut and institution can both save your life, and also lead you
 > of our times.
 >
 > -- <cite> Wade Davis </cite>
-
-The western emphasis on technology is merely one way to exist, there are
-numerous other paths for humans to take, and we need to learn to both learn from
-then, and protect them.
 
 ### Cave in the Snow
 
@@ -161,7 +154,6 @@ then, and protect them.
 > strategically, profoundly, madly letting go.
 >
 > -- <cite> Donna Meadows </cite>
-
 
 ### An Introduction to General Systems Thinking
 
