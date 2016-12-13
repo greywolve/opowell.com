@@ -73,7 +73,7 @@ have included a quote from each book that I really liked.
 > threshold for boredom; help your own to develop an inner life so that they’ll
 > never be bored. 
 >
-> -- <cite> John Gatto Taylor </cite>
+> -- <cite> John Taylor Gatto </cite>
 
 ### Outliers
 
